@@ -18,16 +18,17 @@
 	</organization>
 
 	<properties>
-		<!-- versions -->
-		<sonar.host.url>http://3.110.135.47:9000/</sonar.host.url>
-                <sonar.login>admin</sonar.login>
-		<sonar.password>admin</sonar.password> 		
-		<spring.version>5.0.7.RELEASE</spring.version>
-		<junit.version>4.12</junit.version>
-		<log4j.version>1.2.17</log4j.version>
+	<!-- versions -->
+		<sonar.host.url>http://15.207.98.59:9000/</sonar.host.url>
+        <sonar.login>admin</sonar.login>
+		<sonar.password>Password@123</sonar.password> 
+     
+		<!--
+        <sonar.login>e21a23d1ddfe36a82378ddaad6e7254db53a37bc</sonar.login>
+        -->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-	</properties>
+	    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+</properties>
 
 	<dependencies>
 
